@@ -1,5 +1,25 @@
 package com.finalproject;
 
+
+/*
+ * A task management system used to record and
+ * track task.  users can add, remove, and complete
+ * task.
+ * 
+* @author Karla Crawley
+* @version 1.0
+* *  
+* OS: windows 11
+* IDE: eclipse 4.38.0, 
+* Copyright : This is my own original work 
+* based on specifications issued by our instructor 
+* Academic Honesty: I attest that this is my original work.
+* I have not used unauthorized source code, either modified or
+* unmodified, nor used generative AI as a final draft. 
+* I have not given other fellow student(s) access to my program.
+* 
+*/
+
 import javax.swing.*;
 import java.awt.*;
 import java.io.*;
